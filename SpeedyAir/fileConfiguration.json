@@ -1,0 +1,6 @@
+{
+  "FileConfiguration" : {
+    "ScheduleFileName": "scheduler.json",
+    "OrdersFileName": "coding-assigment-orders.json"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schedules": [
+    {
+      "flight": 1,
+      "departureId": "YUL",
+      "arrivalId": "YYZ",
+      "day": 1
+    },
+    {
+      "flight": 2,
+      "departureId": "YUL",
+      "arrivalId": "YYC",
+      "day": 1
+    },
+    {
+      "flight": 3,
+      "departureId": "YUL",
+      "arrivalId": "YVR",
+      "day": 1
+    },
+    {
+      "flight": 4,
+      "departureId": "YUL",
+      "arrivalId": "YYZ",
+      "day": 2      
+    },
+    {
+      "flight": 5,
+      "departureId": "YUL",
+      "arrivalId": "YYC",
+      "day": 2
+    },    
+    {
+      "flight": 6,
+      "departureId": "YUL",
+      "arrivalId": "YVR",
+      "day": 2
+    }
+  ]
+}
